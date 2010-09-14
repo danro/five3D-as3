@@ -1,0 +1,6 @@
+(Unofficial mirror of SVN from Google Code)
+
+FIVe3D - Flash Interactive Vector-based 3D
+
+The FIVe3D initiative is an open source code for the conception of interactive vector-based 3D animations. The classes originally written in AS 2.0 and based on the AS 3.0 structure are now ported in AS 3.0. The FIVe3D system conserves the display list organization and provides extra 3D functionnalities.
+
